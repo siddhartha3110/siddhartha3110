@@ -1,58 +1,66 @@
-<h1 align="center">Hi 👋, I'm Siddhartha Chaudhary</h1>
-<h3 align="center">A passionate Full Stack Web Developer & Vibe Coder from India</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=3ECF8E&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Siddhartha+Chaudhary;Full+Stack+Vibe+Coder;AI-Driven+Architect;Building+at+the+speed+of+thought" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Vibe%20Coding%20Enthusiast&fontSize=50&animation=fadeIn" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=150&section=header&text=SYSTEM%20VIBE:%20ACTIVE&fontSize=40&animation=twinkling" alt="Header" />
 </p>
 
 <div align="center">
-  <img align="right" alt="Coding" src="https://c.tenor.com/flflC6GFzO8AAAAM/sultan-alrefaei-programmer.gif" width="350">
-  
-  <p align="left">
-    ✨ **The Vibe:** Transitioning from traditional syntax-heavy dev to **Vibe Coding**. <br>
-    🚀 **Tools of Choice:** Building fluidly with **Lovable**, **Replit**, and currently pushing limits with **Antigravity**. <br>
-    🌱 **Deep Dive:** Currently mastering **Angular** to complement AI-generated architectures. <br>
-    💬 **Expertise:** Ask me about **Dot Net Core**, **AngularJS**, and rapid prototyping.
-  </p>
+  <table border="0">
+    <tr>
+      <td width="55%">
+        <h3>🌌 The Philosophy</h3>
+        <p>I build <b>high-velocity digital experiences</b> by leveraging the synergy between human intent and AI execution. My workflow is optimized for <i>flow state</i>, using modern generative tools to bypass boilerplate and focus on core logic.</p>
+        <p>
+          🚀 <b>Current Focus:</b> Mastering <b>Antigravity</b> and <b>Lovable</b> for rapid MVP deployment.<br>
+          ⚡ <b>Infrastructure:</b> Building resilient apps with <b>Supabase</b>, <b>Firebase</b> and <b>Vercel</b>.
+        </p>
+      </td>
+      <td width="45%" align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=siddhartha3110&theme=tokyonight&hide_border=true" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br>
 
-### 🛠 Languages and Tools
-<p align="left">
-  <a href="https://angular.io" target="_blank"> <img src="https://skillicons.dev/icons?i=angular,dotnet,azure,bootstrap,c,cpp,css,git,html,js,mssql&theme=dark" /> </a>
-</p>
-
 ---
 
-### 🌌 Vibe Coding Stack
+### 🛰️ The Vibe Stack (Gen-AI Tools)
 <p align="left">
   <img src="https://img.shields.io/badge/Lovable-FF4B4B?style=for-the-badge&logo=rocket&logoColor=white" />
   <img src="https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white" />
   <img src="https://img.shields.io/badge/Antigravity-000000?style=for-the-badge&logo=starship&logoColor=cyan" />
+  <img src="https://img.shields.io/badge/Cursor-04A5E5?style=for-the-badge&logo=cursor&logoColor=white" />
 </p>
 
----
-
-### 📊 GitHub Stats & Flux
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=siddhartha3110&show_icons=true&theme=vision-friendly-dark&hide_border=true&include_all_commits=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=siddhartha3110&theme=vision-friendly-dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=siddhartha3110&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark&hide_border=true" />
-</p>
-
----
-
-### 🤝 Connect with me
+### 🛠️ Production Stack (Infrastructure & Frameworks)
 <p align="left">
-<a href="mailto:itssid31101998@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://linkedin.com/in/siddhartha-chaudhary-31101998/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://www.hackerrank.com/itssid31101998" target="blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=angular,dotnet,supabase,firebase,vercel,azure,ts,js,html,css,git,mysql,cs&perline=6" />
+  </a>
 </p>
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=siddhartha-vibe&label=Profile%20views&color=0e75b6&style=flat" alt="Views" /> 
+---
+
+### 📊 System Diagnostics
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=siddhartha3110&theme=tokyonight&hide_border=true" width="100%" />
 </p>
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=siddhartha3110&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=siddhartha3110&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 📺 Vibe Terminal
+```bash
+> sudo systemctl status vibe-coding
+● vibe-coding.service - Siddhartha's Creative Engine
+   Active: active (running) since 🔥
+   Main Tool: Antigravity + Angular
+   Status: "Orchestrating AI to build the future."
